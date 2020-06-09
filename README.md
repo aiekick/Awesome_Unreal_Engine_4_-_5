@@ -6,63 +6,63 @@
 
 ## Divers :
 * [Text To Speech](https://github.com/skeskinen/UnrealMimic)
-* [Many plugins]https://github.com/martiancraft/Unreal-Engine-4-Plugins)
+* [Many plugins](https://github.com/martiancraft/Unreal-Engine-4-Plugins)
 * [prefabricator](https://github.com/coderespawn/prefabricator-ue4)
 
 ## Gameplay :
-* https://github.com/npruehs/ue4-rts
+* [RTS](https://github.com/npruehs/ue4-rts)
 
 ## Geometry :
-* https://github.com/Koderz/RuntimeMeshComponent
-* https://github.com/ValentinKraft/Boost_PCL_UnrealThirdPartyPlugin
-* https://github.com/ufna/VaSplineSnag
-* https://github.com/NoahZuo/GhostMeshPlugin
-* https://github.com/bw2012/UnrealSandboxTerrain
+* [Runtime Mesh Component](https://github.com/Koderz/RuntimeMeshComponent)
+* [Boost_PCL_UnrealThirdPartyPlugin](https://github.com/ValentinKraft/Boost_PCL_UnrealThirdPartyPlugin)
+* [VaSplineSnag](https://github.com/ufna/VaSplineSnag)
+* [GhostMeshPlugin](https://github.com/NoahZuo/GhostMeshPlugin)
+* [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain)
 
 ## Gui :
-* https://github.com/Noesis/UE4Plugin
-* https://github.com/ufna/VaQuoleUI
-* https://github.com/ue4plugins/LoadingScreen
+* [Noesis Gui](https://github.com/Noesis/UE4Plugin)
+* [VaQuoleUI](https://github.com/ufna/VaQuoleUI)
+* [LoadingScreen](https://github.com/ue4plugins/LoadingScreen)
 
 ## Ide :
-* https://github.com/dotBunny/CLionSourceCodeAccess
+* [Clion](https://github.com/dotBunny/CLionSourceCodeAccess)
 
 ## HMI :
-* https://github.com/getnamo/hydra-ue4
+* [hydra](https://github.com/getnamo/hydra-ue4)
 
 ## Machine Learning :
-* https://github.com/getnamo/tensorflow-ue4
-* https://github.com/getnamo/tensorflow-ue4-examples
-* https://github.com/getnamo/tensorflow-native-ue4
-* https://github.com/getnamo/machine-learning-remote-ue4
+* [tensorflow](https://github.com/getnamo/tensorflow-ue4)
+* [tensorflow examples](https://github.com/getnamo/tensorflow-ue4-examples)
+* [tensorflow native](https://github.com/getnamo/tensorflow-native-ue4)
+* [tensorflow remote](https://github.com/getnamo/machine-learning-remote-ue4)
 
 ## Materials :
-* https://github.com/ufna/VaKawaseBlur
-* https://github.com/ufna/UE4-Unlit-Shadows
-* https://github.com/ufna/VaFogOfWar
-* https://github.com/ufna/VaTexAtlas
-* https://github.com/worisinima/UnrealShadertoy
-* https://github.com/ufna/VaOcean
+* [VaKawaseBlur](https://github.com/ufna/VaKawaseBlur)
+* [UE4-Unlit-Shadows](https://github.com/ufna/UE4-Unlit-Shadows)
+* [VaFogOfWar](https://github.com/ufna/VaFogOfWar)
+* [VaTexAtlas](https://github.com/ufna/VaTexAtlas)
+* [UnrealShadertoy](https://github.com/worisinima/UnrealShadertoy)
+* [VaOcean](https://github.com/ufna/VaOcean)
 
 ## Physic :
-* https://github.com/mhousse1247/UE4-CustomGravityPlugin
-* https://github.com/ufna/VaFleaFly
-* https://github.com/PushkinStudio/PsRealVehicle
+* [CustomGravityPlugin](https://github.com/mhousse1247/UE4-CustomGravityPlugin)
+* [VaFleaFly](https://github.com/ufna/VaFleaFly)
+* [PsRealVehicle](https://github.com/PushkinStudio/PsRealVehicle)
 
 ## Sound :
-* https://github.com/Geromatic/Midi-Unreal
+* [Midi](https://github.com/Geromatic/Midi-Unreal)
 
 ## Source Control :
-* https://github.com/SRombauts/UE4GitPlugin
+* [Git](https://github.com/SRombauts/UE4GitPlugin)
 
 ## Streaming / Network :
-* https://github.com/AleDel/Spout-UE4
-* https://github.com/monsieurgustav/UE4-OSC
-* https://github.com/code-iai/ROSIntegration
-* https://github.com/ufna/VaRest
-* https://github.com/getnamo/ml-remote-server
+* [Spout](https://github.com/AleDel/Spout-UE4)
+* [OSC](https://github.com/monsieurgustav/UE4-OSC)
+* [ROS](https://github.com/code-iai/ROSIntegration)
+* [Rest](https://github.com/ufna/VaRest)
+* [ml-remote-server](https://github.com/getnamo/ml-remote-server)
 
 ## VR :
-* https://github.com/OSVR/OSVR-Unreal
-* https://github.com/ValveSoftware/steamvr_unreal_plugin
-* https://github.com/xuhao1/Unreal-ROS-Plugin
+* [OSVR](https://github.com/OSVR/OSVR-Unreal)
+* [SteamVR](https://github.com/ValveSoftware/steamvr_unreal_plugin)
+* [RobotOs](https://github.com/xuhao1/Unreal-ROS-Plugin)
