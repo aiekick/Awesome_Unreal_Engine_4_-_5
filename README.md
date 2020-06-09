@@ -27,6 +27,8 @@
 * [Voxel survival primitive](https://github.com/MarchingVoxels/Voxel-survival-primitive-UE4)
 * [Spline Tool](https://github.com/UnrealTalks/UnrealTalks-SplineTool)
 * [Spline Path/Spawn](https://github.com/Louis1351/Spline-Objects-Tool-UE4)
+* [Perlin noise based Terrain Generation](https://github.com/Arnaldoeloi/ue4-perlin-terrain)
+* [Ear Cutting algo (Holes filling auto - (WIP))](https://github.com/Sawyer2445/EarCutting_UE4)
 
 ## Gui :
 * [Noesis Gui](https://github.com/Noesis/UE4Plugin)
