@@ -21,18 +21,30 @@
 * [Ghost Mesh](https://github.com/NoahZuo/GhostMeshPlugin)
 * [Sandbox Terrain (Voxel)](https://github.com/bw2012/UnrealSandboxTerrain)
 * [Metaballs (Marching Cube)](https://github.com/andyrst/ue4_metaballs)
-* [Assimp Loader for gltf and others](https://github.com/SolidCoreGames/AssimpLoader)
+* [Free Form Mesh Deformationj](https://github.com/normalvector/ue4_mesh_deformation_toolkit)
+* [Marching Cube GPU](https://github.com/runedegroot/UE4MarchingCubesGPU)
+* [Mesh from Audio](https://github.com/Tsarpf/UE4-Procedural-Audio)
+* [Voxel survival primitive](https://github.com/MarchingVoxels/Voxel-survival-primitive-UE4)
+* [Spline Tool](https://github.com/UnrealTalks/UnrealTalks-SplineTool)
+* [Spline Path/Spawn](https://github.com/Louis1351/Spline-Objects-Tool-UE4)
 
 ## Gui :
 * [Noesis Gui](https://github.com/Noesis/UE4Plugin)
 * [VaQuole UI](https://github.com/ufna/VaQuoleUI)
 * [Loading Screen](https://github.com/ue4plugins/LoadingScreen)
 
+## HMI :
+* [hydra](https://github.com/getnamo/hydra-ue4)
+
 ## Ide :
 * [Clion](https://github.com/dotBunny/CLionSourceCodeAccess)
 
-## HMI :
-* [hydra](https://github.com/getnamo/hydra-ue4)
+## Loader :
+* [Assimp Loader](https://github.com/SolidCoreGames/AssimpLoader)
+* [Gltf](https://github.com/code4game/glTFForUE4)
+
+## Light :
+* [Auto Lightmap Adjuster](https://github.com/alexismorin/Auto-Lightmap-Adjuster)
 
 ## Machine Learning :
 * [tensorflow](https://github.com/getnamo/tensorflow-ue4)
@@ -60,6 +72,9 @@
 * [VaFleaFly (Steering behaviour)](https://github.com/ufna/VaFleaFly)
 * [PsRealVehicle (force-driven vehicle simulation)](https://github.com/PushkinStudio/PsRealVehicle)
 * [Procedural wind](https://github.com/tuxalin/vegetation-shader)
+
+## Rigging / Animation :
+* [Creature](https://github.com/kestrelm/Creature_UE4)
 
 ## Sound :
 * [Midi](https://github.com/Geromatic/Midi-Unreal)
