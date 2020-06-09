@@ -1,4 +1,4 @@
-# UE4 Plugins List
+# UE4 Ressources
 
 ## Database : 
 * [MySql](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin)
@@ -9,6 +9,7 @@
 * [Many plugins](https://github.com/martiancraft/Unreal-Engine-4-Plugins)
 * [prefabricator](https://github.com/coderespawn/prefabricator-ue4)
 * [Data Model (Cpp)](https://github.com/PushkinStudio/PsData)
+* [Collection of Basic Mesh / Materials / Textures](https://github.com/normalvector/ue4_basic_toolkit)
 
 ## Gameplay :
 * [RTS](https://github.com/npruehs/ue4-rts)
@@ -20,6 +21,7 @@
 * [Ghost Mesh](https://github.com/NoahZuo/GhostMeshPlugin)
 * [Sandbox Terrain (Voxel)](https://github.com/bw2012/UnrealSandboxTerrain)
 * [Metaballs (Marching Cube)](https://github.com/andyrst/ue4_metaballs)
+* [Assimp Loader for gltf and others](https://github.com/SolidCoreGames/AssimpLoader)
 
 ## Gui :
 * [Noesis Gui](https://github.com/Noesis/UE4Plugin)
@@ -46,11 +48,18 @@
 * [UnrealShadertoy (ShaderToy)](https://github.com/worisinima/UnrealShadertoy)
 * [VaOcean (Ocean mat)](https://github.com/ufna/VaOcean)
 * [Many Post-Processing Shaders](https://github.com/andyrst/ue4_materials)
+* [Realistic Atmosphere](https://github.com/Dimev/Realistic-Atmosphere-Godot-and-UE4)
+* [post-pro NightVision](https://github.com/jlamarche/UE4-NightVision)
+* [Grid](https://github.com/jnphgs/UE4_ProceduralGrid)
+* [Sand](https://github.com/pminiszewski/UE4-HeightBlending)
+* [Collection of Materials for films](https://github.com/ACaesuraIsStillMusic/UE4-Swappable-Materials)
+* [Material control via UE4 Sequencer](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack)
 
 ## Physic :
 * [Custom Gravity](https://github.com/mhousse1247/UE4-CustomGravityPlugin)
 * [VaFleaFly (Steering behaviour)](https://github.com/ufna/VaFleaFly)
 * [PsRealVehicle (force-driven vehicle simulation)](https://github.com/PushkinStudio/PsRealVehicle)
+* [Procedural wind](https://github.com/tuxalin/vegetation-shader)
 
 ## Sound :
 * [Midi](https://github.com/Geromatic/Midi-Unreal)
