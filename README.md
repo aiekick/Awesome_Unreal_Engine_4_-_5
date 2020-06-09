@@ -1,13 +1,13 @@
 # UE4 Plugins List
 
 ## Database : 
-* https://github.com/KhArtNJava/MySQLConnectorUE4Plugin
-* https://github.com/Jusas/SQLite3UE4
+* [MySql](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin)
+* [Sqlite](https://github.com/Jusas/SQLite3UE4)
 
 ## Divers :
 * [Text To Speech](https://github.com/skeskinen/UnrealMimic)
-* https://github.com/martiancraft/Unreal-Engine-4-Plugins
-* https://github.com/coderespawn/prefabricator-ue4
+* [Many plugins]https://github.com/martiancraft/Unreal-Engine-4-Plugins)
+* [prefabricator](https://github.com/coderespawn/prefabricator-ue4)
 
 ## Gameplay :
 * https://github.com/npruehs/ue4-rts
