@@ -8,21 +8,22 @@
 * [Text To Speech](https://github.com/skeskinen/UnrealMimic)
 * [Many plugins](https://github.com/martiancraft/Unreal-Engine-4-Plugins)
 * [prefabricator](https://github.com/coderespawn/prefabricator-ue4)
+* [Data Model (Cpp)](https://github.com/PushkinStudio/PsData)
 
 ## Gameplay :
 * [RTS](https://github.com/npruehs/ue4-rts)
 
 ## Geometry :
 * [Runtime Mesh Component](https://github.com/Koderz/RuntimeMeshComponent)
-* [Boost_PCL_UnrealThirdPartyPlugin](https://github.com/ValentinKraft/Boost_PCL_UnrealThirdPartyPlugin)
-* [VaSplineSnag](https://github.com/ufna/VaSplineSnag)
-* [GhostMeshPlugin](https://github.com/NoahZuo/GhostMeshPlugin)
-* [UnrealSandboxTerrain](https://github.com/bw2012/UnrealSandboxTerrain)
+* [Point Cloud Library (PCL)](https://github.com/ValentinKraft/Boost_PCL_UnrealThirdPartyPlugin)
+* [Spline](https://github.com/ufna/VaSplineSnag)
+* [Ghost Mesh](https://github.com/NoahZuo/GhostMeshPlugin)
+* [Sandbox Terrain (Voxel)](https://github.com/bw2012/UnrealSandboxTerrain)
 
 ## Gui :
 * [Noesis Gui](https://github.com/Noesis/UE4Plugin)
-* [VaQuoleUI](https://github.com/ufna/VaQuoleUI)
-* [LoadingScreen](https://github.com/ue4plugins/LoadingScreen)
+* [VaQuole UI](https://github.com/ufna/VaQuoleUI)
+* [Loading Screen](https://github.com/ue4plugins/LoadingScreen)
 
 ## Ide :
 * [Clion](https://github.com/dotBunny/CLionSourceCodeAccess)
@@ -37,17 +38,17 @@
 * [tensorflow remote](https://github.com/getnamo/machine-learning-remote-ue4)
 
 ## Materials :
-* [VaKawaseBlur](https://github.com/ufna/VaKawaseBlur)
-* [UE4-Unlit-Shadows](https://github.com/ufna/UE4-Unlit-Shadows)
-* [VaFogOfWar](https://github.com/ufna/VaFogOfWar)
-* [VaTexAtlas](https://github.com/ufna/VaTexAtlas)
-* [UnrealShadertoy](https://github.com/worisinima/UnrealShadertoy)
-* [VaOcean](https://github.com/ufna/VaOcean)
+* [VaKawaseBlur (Kawase Blur Mat)](https://github.com/ufna/VaKawaseBlur)
+* [Unlit Shadows](https://github.com/ufna/UE4-Unlit-Shadows)
+* [VaFogOfWar (Fog of War)](https://github.com/ufna/VaFogOfWar)
+* [VaTexAtlas (Textre Atlas)](https://github.com/ufna/VaTexAtlas)
+* [UnrealShadertoy (ShaderToy)](https://github.com/worisinima/UnrealShadertoy)
+* [VaOcean (Ocean mat)](https://github.com/ufna/VaOcean)
 
 ## Physic :
-* [CustomGravityPlugin](https://github.com/mhousse1247/UE4-CustomGravityPlugin)
-* [VaFleaFly](https://github.com/ufna/VaFleaFly)
-* [PsRealVehicle](https://github.com/PushkinStudio/PsRealVehicle)
+* [Custom Gravity](https://github.com/mhousse1247/UE4-CustomGravityPlugin)
+* [VaFleaFly (Steering behaviour)](https://github.com/ufna/VaFleaFly)
+* [PsRealVehicle (force-driven vehicle simulation)](https://github.com/PushkinStudio/PsRealVehicle)
 
 ## Sound :
 * [Midi](https://github.com/Geromatic/Midi-Unreal)
