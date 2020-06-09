@@ -1,5 +1,8 @@
 # UE4 Ressources
 
+## Assets :
+* [Assets Collection](https://github.com/nikrich/UnrealAssets)
+
 ## Database : 
 * [MySql](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin)
 * [Sqlite](https://github.com/Jusas/SQLite3UE4)
@@ -10,6 +13,8 @@
 * [prefabricator](https://github.com/coderespawn/prefabricator-ue4)
 * [Data Model (Cpp)](https://github.com/PushkinStudio/PsData)
 * [Collection of Basic Mesh / Materials / Textures](https://github.com/normalvector/ue4_basic_toolkit)
+* [Sdk Generator](https://github.com/polivilas/UnrealEngineSDKGenerator)
+* [OpenStreetMap](https://github.com/ue4plugins/StreetMap)
 
 ## Gameplay :
 * [RTS](https://github.com/npruehs/ue4-rts)
@@ -29,17 +34,28 @@
 * [Spline Path/Spawn](https://github.com/Louis1351/Spline-Objects-Tool-UE4)
 * [Perlin noise based Terrain Generation](https://github.com/Arnaldoeloi/ue4-perlin-terrain)
 * [Ear Cutting algo (Holes filling auto - (WIP))](https://github.com/Sawyer2445/EarCutting_UE4)
+* [Flexible Mesh Generation](https://github.com/daniel-amthauer/BMeshUnreal)
+* [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin)
+* [Landscape Generation](https://github.com/bneukom/UnrealLandscape)
+* [Maps Generation](https://github.com/Jay2645/Unreal-Polygonal-Map-Gen)
+* [Voxel Terrain](https://github.com/bw2012/UE4VoxelTerrain)
 
 ## Gui :
 * [Noesis Gui](https://github.com/Noesis/UE4Plugin)
 * [VaQuole UI](https://github.com/ufna/VaQuoleUI)
 * [Loading Screen](https://github.com/ue4plugins/LoadingScreen)
+* [Dear ImGui](https://github.com/segross/UnrealImGui)
+
+## Languages :
+* [Python](https://github.com/AlexQuevillon/UnrealPythonLibrary)
 
 ## HMI :
 * [hydra](https://github.com/getnamo/hydra-ue4)
+* [Leap Motion](https://github.com/leapmotion/LeapUnreal)
 
-## Ide :
+## Ide UE4 Plugins :
 * [Clion](https://github.com/dotBunny/CLionSourceCodeAccess)
+* [SublimeText](https://github.com/Zinggi/UnrealScriptIDE)
 
 ## Loader :
 * [Assimp Loader](https://github.com/SolidCoreGames/AssimpLoader)
@@ -48,11 +64,14 @@
 ## Light :
 * [Auto Lightmap Adjuster](https://github.com/alexismorin/Auto-Lightmap-Adjuster)
 
-## Machine Learning :
+## Machine Learning / AI / Vision :
 * [tensorflow](https://github.com/getnamo/tensorflow-ue4)
 * [tensorflow examples](https://github.com/getnamo/tensorflow-ue4-examples)
 * [tensorflow native](https://github.com/getnamo/tensorflow-native-ue4)
 * [tensorflow remote](https://github.com/getnamo/machine-learning-remote-ue4)
+* [UnrealCV (opencv)](https://github.com/unrealcv/unrealcv)
+* [OpenAI Gym](https://github.com/zfw1226/gym-unrealcv)
+* [Nav Path Editor Visualizer](https://github.com/RohitKotiveetil/UnrealEngine--Waypoints)
 
 ## Materials :
 * [VaKawaseBlur (Kawase Blur Mat)](https://github.com/ufna/VaKawaseBlur)
@@ -68,12 +87,15 @@
 * [Sand](https://github.com/pminiszewski/UE4-HeightBlending)
 * [Collection of Materials for films](https://github.com/ACaesuraIsStillMusic/UE4-Swappable-Materials)
 * [Material control via UE4 Sequencer](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack)
+* [Noise Generation](https://github.com/midgen/UnrealFastNoise)
+* [Ocean Project](https://github.com/UE4-OceanProject/OceanProject)
 
 ## Physic :
 * [Custom Gravity](https://github.com/mhousse1247/UE4-CustomGravityPlugin)
 * [VaFleaFly (Steering behaviour)](https://github.com/ufna/VaFleaFly)
 * [PsRealVehicle (force-driven vehicle simulation)](https://github.com/PushkinStudio/PsRealVehicle)
 * [Procedural wind](https://github.com/tuxalin/vegetation-shader)
+* [Hover Effect](https://github.com/ue4plugins/HoverPlugin)
 
 ## Rigging / Animation :
 * [Creature](https://github.com/kestrelm/Creature_UE4)
@@ -91,7 +113,18 @@
 * [Rest](https://github.com/ufna/VaRest)
 * [ml-remote-server](https://github.com/getnamo/ml-remote-server)
 
+## Tools :
+* [Unreal Updater](https://github.com/arbonagw/UnrealUpdater)
+* [Unreal Pak Viewer](https://github.com/jashking/UnrealPakViewer)
+
+## Video :
+* [VlcMedia](https://github.com/ue4plugins/VlcMedia)
+
 ## VR :
 * [OSVR](https://github.com/OSVR/OSVR-Unreal)
 * [SteamVR](https://github.com/ValveSoftware/steamvr_unreal_plugin)
 * [RobotOs](https://github.com/xuhao1/Unreal-ROS-Plugin)
+* [ArCore](https://github.com/google-ar/arcore-unreal-sdk)
+* [AugmentedUnreality](https://github.com/adynathos/AugmentedUnreality)
+* [Mixed Reality](https://github.com/degica/UnrealEngine4-MixedReality)
+
