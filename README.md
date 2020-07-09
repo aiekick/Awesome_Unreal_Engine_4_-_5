@@ -3,6 +3,9 @@
 ## Assets :
 * [Assets Collection](https://github.com/nikrich/UnrealAssets)
 
+## Core :
+* [future-extensions](https://github.com/splash-damage/future-extensions) (Threading)
+
 ## Database : 
 * [MySql](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin)
 * [Sqlite](https://github.com/Jusas/SQLite3UE4)
