@@ -1,5 +1,9 @@
 # UE4 Ressources
 
+## Articles / books :
+
+* [unreal art optimization](https://unrealartoptimization.github.io/book/)
+
 ## Assets :
 * [Assets Collection](https://github.com/nikrich/UnrealAssets)
 
