@@ -124,6 +124,7 @@
 ## Tools :
 * [Unreal Pak Viewer](https://github.com/jashking/UnrealPakViewer)
 * [Unreal Updater](https://github.com/arbonagw/UnrealUpdater)
+* [Houdini plugin V2](https://github.com/sideeffects/HoudiniEngineForUnreal-v2)
 
 ## Video :
 * [VlcMedia](https://github.com/ue4plugins/VlcMedia)
