@@ -99,8 +99,9 @@
 * [VaTexAtlas (Textre Atlas)](https://github.com/ufna/VaTexAtlas)
 * [VaOcean (Ocean mat)](https://github.com/ufna/VaOcean)
 
-## Shader :
-* [Compute shader Plugin Demo](https://github.com/ValentinKraft/UE4ShaderPluginDemo)
+## Shader (Global, Compute):
+* [Compute shader Plugin Demo](https://github.com/Temaran/UE4ShaderPluginDemo)
+* [Sorting Compute Shader](https://github.com/ValentinKraft/UE4_SortingComputeShader)
 
 ## Physic :
 * [Custom Gravity](https://github.com/mhousse1247/UE4-CustomGravityPlugin)
