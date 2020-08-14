@@ -82,8 +82,10 @@
 * [Nav Path Editor Visualizer](https://github.com/RohitKotiveetil/UnrealEngine--Waypoints)
 * [UnrealCV (opencv)](https://github.com/unrealcv/unrealcv)
 
-## Materials :
+## Materials, Shaders (Global, Compute, etc..) :
 * [Collection of Materials for films](https://github.com/ACaesuraIsStillMusic/UE4-Swappable-Materials)
+* [Compute shader Plugin Demo](https://github.com/Temaran/UE4ShaderPluginDemo)
+* [Global Shader Celestial EnvMap](https://github.com/NuiLab/realtime-celestial-rendering)
 * [Grid](https://github.com/jnphgs/UE4_ProceduralGrid)
 * [Many Post-Processing Shaders](https://github.com/andyrst/ue4_materials)
 * [Material control via UE4 Sequencer](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack)
@@ -92,17 +94,13 @@
 * [Post-pro NightVision](https://github.com/jlamarche/UE4-NightVision)
 * [Realistic Atmosphere](https://github.com/Dimev/Realistic-Atmosphere-Godot-and-UE4)
 * [Sand](https://github.com/pminiszewski/UE4-HeightBlending)
+* [Sorting Compute Shader](https://github.com/ValentinKraft/UE4_SortingComputeShader)
 * [Unlit Shadows](https://github.com/ufna/UE4-Unlit-Shadows)
 * [UnrealShadertoy (ShaderToy)](https://github.com/worisinima/UnrealShadertoy)
 * [VaFogOfWar (Fog of War)](https://github.com/ufna/VaFogOfWar)
 * [VaKawaseBlur (Kawase Blur Mat)](https://github.com/ufna/VaKawaseBlur)
 * [VaTexAtlas (Textre Atlas)](https://github.com/ufna/VaTexAtlas)
 * [VaOcean (Ocean mat)](https://github.com/ufna/VaOcean)
-
-## Shader (Global, Compute):
-* [Compute shader Plugin Demo](https://github.com/Temaran/UE4ShaderPluginDemo)
-* [Sorting Compute Shader](https://github.com/ValentinKraft/UE4_SortingComputeShader)
-* [Global Shader Celestial EnvMap](https://github.com/NuiLab/realtime-celestial-rendering)
 
 ## Physic :
 * [Custom Gravity](https://github.com/mhousse1247/UE4-CustomGravityPlugin)
