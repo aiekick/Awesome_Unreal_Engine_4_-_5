@@ -9,6 +9,7 @@
 
 ## Bindings :
 * [C# F# binding](https://github.com/nxrighthere/UnrealCLR)
+* [Python](https://github.com/AlexQuevillon/UnrealPythonLibrary)
 
 ## Core :
 * [future-extensions](https://github.com/splash-damage/future-extensions) (Threading)
@@ -56,9 +57,6 @@
 * [Loading Screen](https://github.com/ue4plugins/LoadingScreen)
 * [Noesis Gui](https://github.com/Noesis/UE4Plugin)
 * [VaQuole UI](https://github.com/ufna/VaQuoleUI)
-
-## Languages :
-* [Python](https://github.com/AlexQuevillon/UnrealPythonLibrary)
 
 ## HMI :
 * [hydra](https://github.com/getnamo/hydra-ue4)
