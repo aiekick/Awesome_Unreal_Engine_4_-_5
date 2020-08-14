@@ -102,6 +102,7 @@
 ## Shader (Global, Compute):
 * [Compute shader Plugin Demo](https://github.com/Temaran/UE4ShaderPluginDemo)
 * [Sorting Compute Shader](https://github.com/ValentinKraft/UE4_SortingComputeShader)
+* [Global Shader Celestial EnvMap](https://github.com/NuiLab/realtime-celestial-rendering)
 
 ## Physic :
 * [Custom Gravity](https://github.com/mhousse1247/UE4-CustomGravityPlugin)
