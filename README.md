@@ -18,15 +18,6 @@
 * [MySql](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin)
 * [Sqlite](https://github.com/Jusas/SQLite3UE4)
 
-## Divers :
-* [Collection of Basic Mesh / Materials / Textures](https://github.com/normalvector/ue4_basic_toolkit)
-* [Data Model (Cpp)](https://github.com/PushkinStudio/PsData)
-* [Many plugins](https://github.com/martiancraft/Unreal-Engine-4-Plugins)
-* [OpenStreetMap](https://github.com/ue4plugins/StreetMap)
-* [Prefabricator](https://github.com/coderespawn/prefabricator-ue4)
-* [Sdk Generator](https://github.com/polivilas/UnrealEngineSDKGenerator)
-* [Text To Speech](https://github.com/skeskinen/UnrealMimic)
-
 ## Gameplay :
 * [RTS](https://github.com/npruehs/ue4-rts)
 
@@ -129,6 +120,15 @@
 * [Unreal Pak Viewer](https://github.com/jashking/UnrealPakViewer)
 * [Unreal Updater](https://github.com/arbonagw/UnrealUpdater)
 * [Houdini plugin V2](https://github.com/sideeffects/HoudiniEngineForUnreal-v2)
+
+## Vaious (no cataogie name found hihi ) :
+* [Collection of Basic Mesh / Materials / Textures](https://github.com/normalvector/ue4_basic_toolkit)
+* [Data Model (Cpp)](https://github.com/PushkinStudio/PsData)
+* [Many plugins](https://github.com/martiancraft/Unreal-Engine-4-Plugins)
+* [OpenStreetMap](https://github.com/ue4plugins/StreetMap)
+* [Prefabricator](https://github.com/coderespawn/prefabricator-ue4)
+* [Sdk Generator](https://github.com/polivilas/UnrealEngineSDKGenerator)
+* [Text To Speech](https://github.com/skeskinen/UnrealMimic)
 
 ## Video :
 * [VlcMedia](https://github.com/ue4plugins/VlcMedia)
