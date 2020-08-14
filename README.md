@@ -8,7 +8,7 @@
 * [Assets Collection](https://github.com/nikrich/UnrealAssets)
 
 ## Bindings :
-* [C# F# binding](https://github.com/nxrighthere/UnrealCLR)
+* [C# F#](https://github.com/nxrighthere/UnrealCLR)
 * [Python](https://github.com/AlexQuevillon/UnrealPythonLibrary)
 
 ## Core :
