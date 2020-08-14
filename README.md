@@ -1,9 +1,14 @@
 # UE4 Ressources
 
-## Articles / books :
+## Articles / books / videos :
 
+### Articles / books
 * [unreal art optimization](https://unrealartoptimization.github.io/book/)
 * [raywenderlich ue4 tutorials](https://www.raywenderlich.com/unreal-engine)
+
+### Videos
+* [twitch unreal engine videso](https://www.twitch.tv/unrealengine/videos)
+* [youtube unreal engine videos](https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ)
 
 ## Assets :
 * [Assets Collection](https://github.com/nikrich/UnrealAssets)
