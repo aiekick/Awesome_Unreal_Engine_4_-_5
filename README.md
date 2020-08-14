@@ -8,7 +8,7 @@
 * [Assets Collection](https://github.com/nikrich/UnrealAssets)
 
 ## Bindings :
-* [C# F~# binding](https://github.com/nxrighthere/UnrealCLR)
+* [C# F# binding](https://github.com/nxrighthere/UnrealCLR)
 
 ## Core :
 * [future-extensions](https://github.com/splash-damage/future-extensions) (Threading)
