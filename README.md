@@ -39,6 +39,7 @@
 * [Metaballs (Marching Cube)](https://github.com/andyrst/ue4_metaballs)
 * [Perlin noise based Terrain Generation](https://github.com/Arnaldoeloi/ue4-perlin-terrain)
 * [Point Cloud Library (PCL)](https://github.com/ValentinKraft/Boost_PCL_UnrealThirdPartyPlugin)
+* [Procedural Mesh Demos](https://github.com/SiggiG/ProceduralMeshDemos)
 * [Runtime Mesh Component](https://github.com/Koderz/RuntimeMeshComponent)
 * [Sandbox Terrain (Voxel)](https://github.com/bw2012/UnrealSandboxTerrain)
 * [Spline](https://github.com/ufna/VaSplineSnag)
