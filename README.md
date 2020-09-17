@@ -134,6 +134,7 @@
 * [Many plugins](https://github.com/martiancraft/Unreal-Engine-4-Plugins)
 * [OpenStreetMap](https://github.com/ue4plugins/StreetMap)
 * [Prefabricator](https://github.com/coderespawn/prefabricator-ue4)
+* [ScreenShot](https://github.com/Subtixx/RuntimeScreenshots)
 * [Sdk Generator](https://github.com/polivilas/UnrealEngineSDKGenerator)
 * [Text To Speech](https://github.com/skeskinen/UnrealMimic)
 
