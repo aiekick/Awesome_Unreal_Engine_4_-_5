@@ -92,6 +92,7 @@
 * [Post-pro NightVision](https://github.com/jlamarche/UE4-NightVision)
 * [Realistic Atmosphere](https://github.com/Dimev/Realistic-Atmosphere-Godot-and-UE4)
 * [Sand](https://github.com/pminiszewski/UE4-HeightBlending)
+* [Sky Atmosphere](https://github.com/sebh/UnrealEngineSkyAtmosphere)
 * [Sorting Compute Shader](https://github.com/ValentinKraft/UE4_SortingComputeShader)
 * [Unlit Shadows](https://github.com/ufna/UE4-Unlit-Shadows)
 * [UnrealShadertoy (ShaderToy)](https://github.com/worisinima/UnrealShadertoy)
