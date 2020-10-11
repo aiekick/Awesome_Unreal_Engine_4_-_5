@@ -26,6 +26,9 @@
 * [MySql](https://github.com/KhArtNJava/MySQLConnectorUE4Plugin)
 * [Sqlite](https://github.com/Jusas/SQLite3UE4)
 
+## Exporter :
+* [Simple Panoramic Exporter](https://github.com/Allar/ue4-simple-panoramic-exporter)
+
 ## Gameplay :
 * [RTS](https://github.com/npruehs/ue4-rts)
 
@@ -113,35 +116,38 @@
 * [VaFleaFly (Steering behaviour)](https://github.com/ufna/VaFleaFly)
 
 ## Rigging / Animation :
-* [Creature](https://github.com/kestrelm/Creature_UE4)
+* [Creature_UE4](https://github.com/kestrelm/Creature_UE4)
 
 ## Sound :
-* [Midi](https://github.com/Geromatic/Midi-Unreal)
+* [Midi-Unreal](https://github.com/Geromatic/Midi-Unreal)
 
 ## Source Control :
-* [Git](https://github.com/SRombauts/UE4GitPlugin)
+* [UE4GitPlugin](https://github.com/SRombauts/UE4GitPlugin)
 
 ## Streaming / Network :
 * [ml-remote-server](https://github.com/getnamo/ml-remote-server)
-* [OSC](https://github.com/monsieurgustav/UE4-OSC)
-* [Rest](https://github.com/ufna/VaRest)
-* [ROS](https://github.com/code-iai/ROSIntegration)
-* [Spout](https://github.com/AleDel/Spout-UE4)
+* [ROSIntegration](https://github.com/code-iai/ROSIntegration)
+* [Spout-UE4](https://github.com/AleDel/Spout-UE4)
+* [UE4ToSpout](https://github.com/Allar/UE4ToSpout)
+* [UE4-OSC](https://github.com/monsieurgustav/UE4-OSC)
+* [VaRest](https://github.com/ufna/VaRest)
 
 ## Tools :
 * [Unreal Pak Viewer](https://github.com/jashking/UnrealPakViewer)
 * [Unreal Updater](https://github.com/arbonagw/UnrealUpdater)
 * [Houdini plugin V2](https://github.com/sideeffects/HoudiniEngineForUnreal-v2)
 
-## Vaious (no cataogie name found hihi ) :
+## Various (no categorie name found hihi ) :
 * [Collection of Basic Mesh / Materials / Textures](https://github.com/normalvector/ue4_basic_toolkit)
 * [Data Model (Cpp)](https://github.com/PushkinStudio/PsData)
 * [Many plugins](https://github.com/martiancraft/Unreal-Engine-4-Plugins)
 * [OpenStreetMap](https://github.com/ue4plugins/StreetMap)
 * [Prefabricator](https://github.com/coderespawn/prefabricator-ue4)
+* [Productivity Plugin](https://github.com/Allar/ProductivityPlugin)
 * [ScreenShot](https://github.com/Subtixx/RuntimeScreenshots)
 * [Sdk Generator](https://github.com/polivilas/UnrealEngineSDKGenerator)
 * [Text To Speech](https://github.com/skeskinen/UnrealMimic)
+* [UE4 MarketPlace Downloader](https://github.com/Allar/ue4-mp-downloader)
 
 ## Video :
 * [VlcMedia](https://github.com/ue4plugins/VlcMedia)
