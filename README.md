@@ -111,6 +111,7 @@
 ## Physic :
 * [Custom Gravity](https://github.com/mhousse1247/UE4-CustomGravityPlugin)
 * [Hover Effect](https://github.com/ue4plugins/HoverPlugin)
+* [Kawaii Physics](https://github.com/pafuhana1213/KawaiiPhysics)
 * [Procedural wind](https://github.com/tuxalin/vegetation-shader)
 * [PsRealVehicle (force-driven vehicle simulation)](https://github.com/PushkinStudio/PsRealVehicle)
 * [VaFleaFly (Steering behaviour)](https://github.com/ufna/VaFleaFly)
