@@ -15,6 +15,9 @@
 ## Assets :
 * [Assets Collection](https://github.com/nikrich/UnrealAssets)
 
+## Animation :
+* [Animation Compression Library](https://github.com/nfrechette/acl-ue4-plugin)
+
 ## Bindings :
 * [C# F#](https://github.com/nxrighthere/UnrealCLR)
 * [Python](https://github.com/AlexQuevillon/UnrealPythonLibrary)
