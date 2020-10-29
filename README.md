@@ -140,6 +140,7 @@
 * [Unreal Pak Viewer](https://github.com/jashking/UnrealPakViewer)
 * [Unreal Updater](https://github.com/arbonagw/UnrealUpdater)
 * [Houdini plugin V2](https://github.com/sideeffects/HoudiniEngineForUnreal-v2)
+* [Binary Builder](https://github.com/ryanjon2040/UE4-Binary-Builder)
 
 ## Various (no categorie name found hihi ) :
 * [Collection of Basic Mesh / Materials / Textures](https://github.com/normalvector/ue4_basic_toolkit)
