@@ -120,6 +120,7 @@
 * [VaFleaFly (Steering behaviour)](https://github.com/ufna/VaFleaFly)
 
 ## Rigging / Animation :
+* [Advanced Locomotion System](https://github.com/dyanikoglu/ALSV4_CPP)
 * [Creature_UE4](https://github.com/kestrelm/Creature_UE4)
 
 ## Sound :
