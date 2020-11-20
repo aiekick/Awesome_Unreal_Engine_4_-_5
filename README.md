@@ -59,6 +59,7 @@
 * [Sandbox Voxel Terrain](https://github.com/bw2012/UnrealSandboxTerrain)
 
 ## Gui :
+* [Async Loading Screen](https://github.com/truong-bui/AsyncLoadingScreen)
 * [Dear ImGui](https://github.com/segross/UnrealImGui)
 * [Loading Screen](https://github.com/ue4plugins/LoadingScreen)
 * [Noesis Gui](https://github.com/Noesis/UE4Plugin)
