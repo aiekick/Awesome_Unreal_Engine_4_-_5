@@ -1,11 +1,5 @@
 # Awesome Unreal Engine 4
 
-## Others repos :
-
-* https://github.com/terrehbyte/awesome-ue4
-* https://github.com/insthync/awesome-ue4
-* https://github.com/aiekick/Awesome_Unreal_Engine_4
-
 ## Articles / books / videos :
 
 ### Articles / books
@@ -172,4 +166,11 @@
 * [OSVR](https://github.com/OSVR/OSVR-Unreal)
 * [RobotOs](https://github.com/xuhao1/Unreal-ROS-Plugin)
 * [SteamVR](https://github.com/ValveSoftware/steamvr_unreal_plugin)
+
+# Others repos :
+
+* https://github.com/terrehbyte/awesome-ue4
+* https://github.com/insthync/awesome-ue4
+* https://github.com/aiekick/Awesome_Unreal_Engine_4
+
 
