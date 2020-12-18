@@ -13,15 +13,13 @@
 * [Asher's Tech Art Chamber](https://discord.gg/5wt856eE)
 * [Realtime VFX](https://discord.gg/5TkdpNKa)
 
-### Programming :
-* [Create a new asset type (CPP)](https://gmpreussner.com/reference/adding-new-asset-types-to-ue4)
-
 ### Videos
 * [twitch unreal engine videso](https://www.twitch.tv/unrealengine/videos)
 * [youtube unreal engine videos](https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ)
 
 ## Assets :
 * [Assets Collection](https://github.com/nikrich/UnrealAssets)
+* [Create a new asset type (CPP)](https://gmpreussner.com/reference/adding-new-asset-types-to-ue4)
 
 ## Animation :
 * [Animation Compression Library](https://github.com/nfrechette/acl-ue4-plugin)
