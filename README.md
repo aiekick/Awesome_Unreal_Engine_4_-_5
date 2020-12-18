@@ -7,6 +7,7 @@
 * [Global Shader Cpp Tuto](https://github.com/henrya2/UE4ShaderPluginDemo)
 * [raywenderlich ue4 tutorials](https://www.raywenderlich.com/unreal-engine)
 * [unreal art optimization](https://unrealartoptimization.github.io/book/)
+* [Create a new asset type (CPP)](https://gmpreussner.com/reference/adding-new-asset-types-to-ue4)
 
 ### Videos
 * [twitch unreal engine videso](https://www.twitch.tv/unrealengine/videos)
