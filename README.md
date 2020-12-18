@@ -2,11 +2,18 @@
 
 ## Articles / books / videos :
 
-### Articles / books
+### Articles / books / Discords
 * [Community WIki](https://ue4community.wiki/)
 * [Global Shader Cpp Tuto](https://github.com/henrya2/UE4ShaderPluginDemo)
 * [raywenderlich ue4 tutorials](https://www.raywenderlich.com/unreal-engine)
 * [unreal art optimization](https://unrealartoptimization.github.io/book/)
+
+### Discords
+* [Unreal Slackers](https://discord.gg/unreal-slackers)
+* [Asher's Tech Art Chamber](https://discord.gg/5wt856eE)
+* [Realtime VFX](https://discord.gg/5TkdpNKa)
+
+### Programming :
 * [Create a new asset type (CPP)](https://gmpreussner.com/reference/adding-new-asset-types-to-ue4)
 
 ### Videos
