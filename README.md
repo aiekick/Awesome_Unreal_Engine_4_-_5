@@ -63,6 +63,7 @@
 * [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin)
 * [Voxel Terrain](https://github.com/bw2012/UE4VoxelTerrain)
 * [Sandbox Voxel Terrain](https://github.com/bw2012/UnrealSandboxTerrain)
+* [TressFX (Fur/Hair)](https://github.com/7rooper/UE4_TressFX)
 
 ## Gui :
 * [Async Loading Screen](https://github.com/truong-bui/AsyncLoadingScreen)
