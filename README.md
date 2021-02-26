@@ -8,7 +8,7 @@
 * [raywenderlich ue4 tutorials](https://www.raywenderlich.com/unreal-engine)
 * [unreal art optimization](https://unrealartoptimization.github.io/book/)
 * [Learning Unreal Engine (Notes)](https://github.com/ibbles/LearningUnrealEngine)
-* 
+
 ### Discords
 * [Unreal Slackers](https://discord.gg/unreal-slackers)
 * [Asher's Tech Art Chamber](https://discord.gg/5wt856eE)
@@ -18,7 +18,7 @@
 * [twitch unreal engine videso](https://www.twitch.tv/unrealengine/videos)
 * [youtube unreal engine videos](https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ)
 * [Niagara Simulation Framework Overview](https://www.youtube.com/watch?v=-cKgZrrBJ2w)
-* 
+
 ## Assets :
 * [Assets Collection](https://github.com/nikrich/UnrealAssets)
 * [Create a new asset type (CPP)](https://gmpreussner.com/reference/adding-new-asset-types-to-ue4)
