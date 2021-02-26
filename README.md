@@ -7,7 +7,8 @@
 * [Global Shader Cpp Tuto](https://github.com/henrya2/UE4ShaderPluginDemo)
 * [raywenderlich ue4 tutorials](https://www.raywenderlich.com/unreal-engine)
 * [unreal art optimization](https://unrealartoptimization.github.io/book/)
-
+* [Learning Unreal Engine (Notes)](https://github.com/ibbles/LearningUnrealEngine)
+* 
 ### Discords
 * [Unreal Slackers](https://discord.gg/unreal-slackers)
 * [Asher's Tech Art Chamber](https://discord.gg/5wt856eE)
