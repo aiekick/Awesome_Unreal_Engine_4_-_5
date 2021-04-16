@@ -22,6 +22,7 @@
 ## Assets :
 * [Assets Collection](https://github.com/nikrich/UnrealAssets)
 * [Create a new asset type (CPP)](https://gmpreussner.com/reference/adding-new-asset-types-to-ue4)
+* [Plugins Collection](https://github.com/ue4plugins)
 
 ## Animation :
 * [Animation Compression Library](https://github.com/nfrechette/acl-ue4-plugin)
@@ -164,6 +165,7 @@
 * [Sdk Generator](https://github.com/polivilas/UnrealEngineSDKGenerator)
 * [Text To Speech](https://github.com/skeskinen/UnrealMimic)
 * [UE4 MarketPlace Downloader](https://github.com/Allar/ue4-mp-downloader)
+* [Text Asset for personnal note](https://github.com/ue4plugins/TextAsset)
 
 ## Video :
 * [VlcMedia](https://github.com/ue4plugins/VlcMedia)
