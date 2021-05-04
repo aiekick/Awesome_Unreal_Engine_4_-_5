@@ -177,6 +177,7 @@
 * [OSVR](https://github.com/OSVR/OSVR-Unreal)
 * [RobotOs](https://github.com/xuhao1/Unreal-ROS-Plugin)
 * [SteamVR](https://github.com/ValveSoftware/steamvr_unreal_plugin)
+* [OffAxis](https://github.com/fweidner/UE4-Plugin-OffAxis)
 
 # Others repos :
 
