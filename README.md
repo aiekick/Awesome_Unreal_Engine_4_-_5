@@ -5,19 +5,19 @@
 ### Articles / books / Discords
 * [Community WIki](https://ue4community.wiki/)
 * [Global Shader Cpp Tuto](https://github.com/henrya2/UE4ShaderPluginDemo)
+* [Learning Unreal Engine (Notes)](https://github.com/ibbles/LearningUnrealEngine)
 * [raywenderlich ue4 tutorials](https://www.raywenderlich.com/unreal-engine)
 * [unreal art optimization](https://unrealartoptimization.github.io/book/)
-* [Learning Unreal Engine (Notes)](https://github.com/ibbles/LearningUnrealEngine)
 
 ### Discords
-* [Unreal Slackers](https://discord.gg/unreal-slackers)
 * [Asher's Tech Art Chamber](https://discord.gg/5wt856eE)
 * [Realtime VFX](https://discord.gg/5TkdpNKa)
+* [Unreal Slackers](https://discord.gg/unreal-slackers)
 
 ### Videos
+* [Niagara Simulation Framework Overview](https://www.youtube.com/watch?v=-cKgZrrBJ2w)
 * [twitch unreal engine videso](https://www.twitch.tv/unrealengine/videos)
 * [youtube unreal engine videos](https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ)
-* [Niagara Simulation Framework Overview](https://www.youtube.com/watch?v=-cKgZrrBJ2w)
 
 ## Assets :
 * [Assets Collection](https://github.com/nikrich/UnrealAssets)
@@ -62,11 +62,10 @@
 * [Spline](https://github.com/ufna/VaSplineSnag)
 * [Spline Tool](https://github.com/UnrealTalks/UnrealTalks-SplineTool)
 * [Spline Path/Spawn](https://github.com/Louis1351/Spline-Objects-Tool-UE4)
+* [TressFX (Fur/Hair)](https://github.com/7rooper/UE4_TressFX)
 * [Voxel survival primitive](https://github.com/MarchingVoxels/Voxel-survival-primitive-UE4)
 * [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin)
 * [Voxel Terrain](https://github.com/bw2012/UE4VoxelTerrain)
-* [Sandbox Voxel Terrain](https://github.com/bw2012/UnrealSandboxTerrain)
-* [TressFX (Fur/Hair)](https://github.com/7rooper/UE4_TressFX)
 
 ## Gui :
 * [Async Loading Screen](https://github.com/truong-bui/AsyncLoadingScreen)
@@ -91,12 +90,12 @@
 * [Auto Lightmap Adjuster](https://github.com/alexismorin/Auto-Lightmap-Adjuster)
 
 ## Machine Learning / AI / Vision :
+* [Nav Path Editor Visualizer](https://github.com/RohitKotiveetil/UnrealEngine--Waypoints)
+* [OpenAI Gym](https://github.com/zfw1226/gym-unrealcv)
 * [tensorflow](https://github.com/getnamo/tensorflow-ue4)
 * [tensorflow examples](https://github.com/getnamo/tensorflow-ue4-examples)
 * [tensorflow native](https://github.com/getnamo/tensorflow-native-ue4)
 * [tensorflow remote](https://github.com/getnamo/machine-learning-remote-ue4)
-* [OpenAI Gym](https://github.com/zfw1226/gym-unrealcv)
-* [Nav Path Editor Visualizer](https://github.com/RohitKotiveetil/UnrealEngine--Waypoints)
 * [UnrealCV (opencv)](https://github.com/unrealcv/unrealcv)
 
 ## Materials, Shaders (Global, Compute, etc..) :
@@ -144,8 +143,8 @@
 * [ml-remote-server](https://github.com/getnamo/ml-remote-server)
 * [ROSIntegration](https://github.com/code-iai/ROSIntegration)
 * [Spout-UE4](https://github.com/AleDel/Spout-UE4)
-* [UE4ToSpout](https://github.com/Allar/UE4ToSpout)
 * [UE4-OSC](https://github.com/monsieurgustav/UE4-OSC)
+* [UE4ToSpout](https://github.com/Allar/UE4ToSpout)
 * [VaRest](https://github.com/ufna/VaRest)
 
 ## Tools :
@@ -157,15 +156,16 @@
 ## Various (no categorie name found hihi ) :
 * [Collection of Basic Mesh / Materials / Textures](https://github.com/normalvector/ue4_basic_toolkit)
 * [Data Model (Cpp)](https://github.com/PushkinStudio/PsData)
+* [Fast Build UE4](https://github.com/Quanwei1992/FASTBuild_UnrealEngine)
 * [Many plugins](https://github.com/martiancraft/Unreal-Engine-4-Plugins)
 * [OpenStreetMap](https://github.com/ue4plugins/StreetMap)
 * [Prefabricator](https://github.com/coderespawn/prefabricator-ue4)
 * [Productivity Plugin](https://github.com/Allar/ProductivityPlugin)
 * [ScreenShot](https://github.com/Subtixx/RuntimeScreenshots)
 * [Sdk Generator](https://github.com/polivilas/UnrealEngineSDKGenerator)
+* [Text Asset for personnal note](https://github.com/ue4plugins/TextAsset)
 * [Text To Speech](https://github.com/skeskinen/UnrealMimic)
 * [UE4 MarketPlace Downloader](https://github.com/Allar/ue4-mp-downloader)
-* [Text Asset for personnal note](https://github.com/ue4plugins/TextAsset)
 
 ## Video :
 * [VlcMedia](https://github.com/ue4plugins/VlcMedia)
@@ -174,13 +174,12 @@
 * [ArCore](https://github.com/google-ar/arcore-unreal-sdk)
 * [AugmentedUnreality](https://github.com/adynathos/AugmentedUnreality)
 * [Mixed Reality](https://github.com/degica/UnrealEngine4-MixedReality)
+* [OffAxis](https://github.com/fweidner/UE4-Plugin-OffAxis)
 * [OSVR](https://github.com/OSVR/OSVR-Unreal)
 * [RobotOs](https://github.com/xuhao1/Unreal-ROS-Plugin)
 * [SteamVR](https://github.com/ValveSoftware/steamvr_unreal_plugin)
-* [OffAxis](https://github.com/fweidner/UE4-Plugin-OffAxis)
 
 # Others repos :
-
 * https://github.com/terrehbyte/awesome-ue4
 * https://github.com/insthync/awesome-ue4
 * https://github.com/aiekick/Awesome_Unreal_Engine_4
