@@ -92,7 +92,8 @@
 ## Library :
 * [KD-Tree (Blueprint)](https://github.com/nutti/UE4-Kdtree)
 * [KdTreeFaceUnreal (Querie on Mesh)](https://github.com/timdecode/KdTreeFaceUnreal)
- 
+* [QuadTree](https://github.com/the-iron-ryan/QuadTree-for-Unreal-Engine)
+
 ## Machine Learning / AI / Vision :
 * [Nav Path Editor Visualizer](https://github.com/RohitKotiveetil/UnrealEngine--Waypoints)
 * [OpenAI Gym](https://github.com/zfw1226/gym-unrealcv)
