@@ -113,6 +113,7 @@
 * [Marching Cube GPU](https://github.com/runedegroot/UE4MarchingCubesGPU)
 * [Material control via UE4 Sequencer](https://github.com/HogeTatu/UE4Plugin_MpcControlTrack)
 * [Noise Generation](https://github.com/midgen/UnrealFastNoise)
+* [Node Graph Assistant Plugin](https://github.com/pdlogingithub/UE4-Node-Graph-Assistant)
 * [Ocean Project](https://github.com/UE4-OceanProject/OceanProject)
 * [Post-pro NightVision](https://github.com/jlamarche/UE4-NightVision)
 * [Realistic Atmosphere](https://github.com/Dimev/Realistic-Atmosphere-Godot-and-UE4)
