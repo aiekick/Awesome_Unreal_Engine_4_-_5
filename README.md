@@ -22,6 +22,7 @@
 ## Assets :
 * [Assets Collection](https://github.com/nikrich/UnrealAssets)
 * [Create a new asset type (CPP)](https://gmpreussner.com/reference/adding-new-asset-types-to-ue4)
+* [File downloaded](https://github.com/RPG3D/FileDownload-UE4)
 * [Plugins Collection](https://github.com/ue4plugins)
 
 ## Animation :
