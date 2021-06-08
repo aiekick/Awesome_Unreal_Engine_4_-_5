@@ -162,6 +162,7 @@
 
 ## Various (no categorie name found hihi ) :
 * [Collection of Basic Mesh / Materials / Textures](https://github.com/normalvector/ue4_basic_toolkit)
+* [Compile Time Vizualizer](https://github.com/Phyronnaz/UECompileTimesVisualizer)
 * [Data Model (Cpp)](https://github.com/PushkinStudio/PsData)
 * [Fast Build UE4](https://github.com/Quanwei1992/FASTBuild_UnrealEngine)
 * [Many plugins](https://github.com/martiancraft/Unreal-Engine-4-Plugins)
