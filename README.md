@@ -8,7 +8,7 @@
 * [Learning Unreal Engine (Notes)](https://github.com/ibbles/LearningUnrealEngine)
 * [raywenderlich ue4 tutorials](https://www.raywenderlich.com/unreal-engine)
 * [unreal art optimization](https://unrealartoptimization.github.io/book/)
-* [Rendering Dependency Graph Infos (RDG)](https://www.mcro.de/c/rdg)
+* [Blog with Infos for : Rendering Dependency Graph (RDG)](https://www.mcro.de/c/rdg)
 
 ### Discords
 * [Asher's Tech Art Chamber](https://discord.gg/5wt856eE)
