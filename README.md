@@ -104,6 +104,7 @@
 * [tensorflow examples](https://github.com/getnamo/tensorflow-ue4-examples)
 * [tensorflow native](https://github.com/getnamo/tensorflow-native-ue4)
 * [tensorflow remote](https://github.com/getnamo/machine-learning-remote-ue4)
+* [UE4-MediaPipe](https://github.com/wongfei/ue4-mediapipe-plugin)
 * [UnrealCV (opencv)](https://github.com/unrealcv/unrealcv)
 
 ## Materials, Shaders (Global, Compute, etc..) :
@@ -153,6 +154,7 @@
 * [ml-remote-server](https://github.com/getnamo/ml-remote-server)
 * [ROSIntegration](https://github.com/code-iai/ROSIntegration)
 * [Spout-UE4](https://github.com/AleDel/Spout-UE4)
+* [UE4-DroidSense](https://github.com/wongfei/ue4-droidsense)
 * [UE4-OSC](https://github.com/monsieurgustav/UE4-OSC)
 * [UE4ToSpout](https://github.com/Allar/UE4ToSpout)
 * [VaRest](https://github.com/ufna/VaRest)
@@ -179,6 +181,7 @@
 * [UE4 MarketPlace Downloader](https://github.com/Allar/ue4-mp-downloader)
 
 ## Video :
+* [UE4-Gstreamer](https://github.com/wongfei/ue4-gstreamer)
 * [VlcMedia](https://github.com/ue4plugins/VlcMedia)
 
 ## VR :
