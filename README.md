@@ -80,6 +80,7 @@
 ## HMI :
 * [hydra](https://github.com/getnamo/hydra-ue4)
 * [Leap Motion](https://github.com/leapmotion/LeapUnreal)
+* [Windows Gaming Input](https://github.com/araghon007/UE4_WindowsGamingInput)
 
 ## Ide UE4 Plugins :
 * [Clion](https://github.com/dotBunny/CLionSourceCodeAccess)
