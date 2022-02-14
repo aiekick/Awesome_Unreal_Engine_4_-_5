@@ -4,6 +4,7 @@
 
 ### Articles / books / Discords
 * [Community WIki](https://ue4community.wiki/)
+* [Game Development & UE4 Programming Guide](https://github.com/ikrima/gamedevguide)
 * [Global Shader Cpp Tuto](https://github.com/henrya2/UE4ShaderPluginDemo)
 * [Learning Unreal Engine (Notes)](https://github.com/ibbles/LearningUnrealEngine)
 * [raywenderlich ue4 tutorials](https://www.raywenderlich.com/unreal-engine)
@@ -172,6 +173,7 @@
 * [Compile Time Vizualizer](https://github.com/Phyronnaz/UECompileTimesVisualizer)
 * [Data Model (Cpp)](https://github.com/PushkinStudio/PsData)
 * [Fast Build UE4](https://github.com/Quanwei1992/FASTBuild_UnrealEngine)
+* [Generic Graph data structure](https://github.com/jinyuliao/GenericGraph)
 * [Many plugins](https://github.com/martiancraft/Unreal-Engine-4-Plugins)
 * [OpenStreetMap](https://github.com/ue4plugins/StreetMap)
 * [Prefabricator](https://github.com/coderespawn/prefabricator-ue4)
