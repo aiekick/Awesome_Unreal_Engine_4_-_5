@@ -47,6 +47,7 @@
 
 ## Gameplay :
 * [RTS](https://github.com/npruehs/ue4-rts)
+* [DarkSoulCamera like](https://github.com/mklabs/ue4-targetsystemplugin)
 
 ## Geometry :
 * [Ear Cutting algo (Holes filling auto - (WIP))](https://github.com/Sawyer2445/EarCutting_UE4)
