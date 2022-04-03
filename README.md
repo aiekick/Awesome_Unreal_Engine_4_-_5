@@ -115,6 +115,7 @@
 * [Collection of Materials for films](https://github.com/ACaesuraIsStillMusic/UE4-Swappable-Materials)
 * [Compute shader Plugin Demo](https://github.com/Temaran/UE4ShaderPluginDemo)
 * [CustomComputeShaders](https://github.com/AyoubKhammassi/CustomComputeShaders)
+* [CustomComputeShaders](https://github.com/hugoattal/ElectronicNodes)
 * [Global Shader Celestial EnvMap](https://github.com/NuiLab/realtime-celestial-rendering)
 * [Grid](https://github.com/jnphgs/UE4_ProceduralGrid)
 * [Many Post-Processing Shaders](https://github.com/andyrst/ue4_materials)
