@@ -3,14 +3,15 @@
 ## Articles / books / videos :
 
 ### Articles / books / Discords
+* [Blog with Infos for : Rendering Dependency Graph (RDG)](https://www.mcro.de/c/rdg)
 * [Community WIki](https://ue4community.wiki/)
 * [Game Development & UE4 Programming Guide](https://github.com/ikrima/gamedevguide)
+* [Game Dev Guide](https://github.com/ikrima/gamedevguide)
 * [Global Shader Cpp Tuto](https://github.com/henrya2/UE4ShaderPluginDemo)
+* [Hashing with Neighbor Grid 3D](https://alicormack.com/spatial-hashing-in-unreals-niagara-with-neighbor-grid-3d/)
 * [Learning Unreal Engine (Notes)](https://github.com/ibbles/LearningUnrealEngine)
 * [raywenderlich ue4 tutorials](https://www.raywenderlich.com/unreal-engine)
 * [unreal art optimization](https://unrealartoptimization.github.io/book/)
-* [Blog with Infos for : Rendering Dependency Graph (RDG)](https://www.mcro.de/c/rdg)
-* [Hashing with Neighbor Grid 3D](https://alicormack.com/spatial-hashing-in-unreals-niagara-with-neighbor-grid-3d/)
 
 ### Discords
 * [Asher's Tech Art Chamber](https://discord.gg/5wt856eE)
