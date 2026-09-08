@@ -113,6 +113,7 @@
 * [tensorflow remote](https://github.com/getnamo/machine-learning-remote-ue4)
 * [UE4-MediaPipe](https://github.com/wongfei/ue4-mediapipe-plugin)
 * [UnrealCV (opencv)](https://github.com/unrealcv/unrealcv)
+* [MiaIA](https://github.com/Agosillo/MiaIA)
 
 ## Materials, Shaders (Global, Compute, etc..) :
 * [Collection of Materials for films](https://github.com/ACaesuraIsStillMusic/UE4-Swappable-Materials)
