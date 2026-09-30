@@ -26,6 +26,7 @@
 * [youtube unreal engine videos](https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ)
 
 ## Assets :
+* [3DTexel Unreal plugin (browse and import a free CC0 PBR, HDRI and decal library)](https://3dtexel.com/unreal-plugin/)
 * [Assets Collection](https://github.com/nikrich/UnrealAssets)
 * [Create a new asset type (CPP)](https://gmpreussner.com/reference/adding-new-asset-types-to-ue4)
 * [File downloaded](https://github.com/RPG3D/FileDownload-UE4)
