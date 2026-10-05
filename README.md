@@ -172,6 +172,7 @@
 ## Tools :
 * [Binary Builder](https://github.com/ryanjon2040/UE4-Binary-Builder)
 * [Houdini plugin V2](https://github.com/sideeffects/HoudiniEngineForUnreal-v2)
+* [LocHub](https://github.com/DmVergasov/LocHub)
 * [Unreal ImGui Tools](shttps://github.com/nakdeyes/UnrealImGuiTools)
 * [Unreal Pak Viewer](https://github.com/jashking/UnrealPakViewer)
 * [Unreal Updater](https://github.com/arbonagw/UnrealUpdater)
