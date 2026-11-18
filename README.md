@@ -30,6 +30,7 @@
 * [Assets Collection](https://github.com/nikrich/UnrealAssets)
 * [Create a new asset type (CPP)](https://gmpreussner.com/reference/adding-new-asset-types-to-ue4)
 * [File downloaded](https://github.com/RPG3D/FileDownload-UE4)
+* [Free Game Dev Assets (catalog of free assets and tools, each licence quoted from its source and dated; filters for Unreal and UE-only content)](https://tmhsdigital.github.io/Free-Game-Dev-Assets/)
 * [Plugins Collection](https://github.com/ue4plugins)
 
 ## Animation :
